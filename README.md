@@ -5,7 +5,7 @@
  ####   library:["Reactjs","Jquary","Ajex"],
  ####   framework:"laravel",
  ####   database:["mysql","mongoDB"],
- ####   api:"api",
+ ####   api:"json",
  ####   Indesigning:["Css","Adobe illustrator","Adobe photoshop","Bootstrap"]
  ####   }
  ####
