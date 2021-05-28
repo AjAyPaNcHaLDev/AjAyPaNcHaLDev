@@ -1,5 +1,7 @@
-  ```javascript
-  [Facbook](https://www.facebook.com/ajaydeveloper8570,"Ajay")
+  [Facebook](https://www.facebook.com/ajaydeveloper8570"ajay")
+    [Instagram](https://www.instagram.com/ajaydeveloper8570"ajay")
+```javascript
+
   "use strict"; const AjAyPaNcHaL={ language:["java","C++"],
         web_language:["javascript","php"],
          library:["Reactjs","Jquary","Ajex"], 
