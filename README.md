@@ -5,7 +5,8 @@
  
 ```javascript
 
-  "use strict"; const AjAyPaNcHaL={ language:["java","C++"],
+  "use strict";
+  const AjAyPaNcHaL={ language:["java","C++"],
         web_language:["javascript","php"],
          library:["Reactjs","Jquary","Ajex"], 
          framework:"laravel",
