@@ -26,6 +26,7 @@ Currently I'm pursuing my Master From Chaudhary Ranbir Singh University on-campu
          framework:"laravel",
           database:["mysql","mongoDB"],    
             api:"json",
+            androidStudio:true,
           Indesigning:["Css","Adobe illustrator","Adobe photoshop","Bootstrap"] }
 ````          
 
