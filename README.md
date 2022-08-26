@@ -25,7 +25,7 @@ Currently I'm pursuing my Master From Chaudhary Ranbir Singh University on-campu
          library:["Reactjs","Jquary","Ajex"], 
          framework:"laravel",
           database:["mysql","mongoDB"],    
-            api:"json",
+            api:["json","xml"],
             androidStudio:true,
           Indesigning:["Css","Adobe illustrator","Adobe photoshop","Bootstrap"] }
 ````          
