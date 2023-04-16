@@ -1,7 +1,7 @@
 # 🌈 AjAyPaNcHaL
 *FullStack Web-Developer living in jind (Hr) India.*
 
-## 🙋 About me
+## 🤵 About me
 I am 23 years old and have been programming since I was 19.
 
 Currently I'm pursuing my Master From Chaudhary Ranbir Singh University on-campus  in Final Year I'm developing some great projects.
@@ -20,13 +20,13 @@ Currently I'm pursuing my Master From Chaudhary Ranbir Singh University on-campu
 ```javascript
 
   "use strict";
-  const AjAyPaNcHaL={ language:["java","C++"],
-        web_language:["javascript","php"],
-         library:["Reactjs","Jquary","Ajex"], 
-         framework:"laravel",
-          database:["mysql","mongoDB"],    
-            api:["json","xml"],
-            androidStudio:true,
+  const AjAyPaNcHaL={ language:["java","C++","Php"],
+        script:["Javascript","TypeScript"],
+         Library:["Reactjs","Jquary","Ajex"], 
+         Framework:"Node Js",
+          Database:["Mysql","MongoDB"],    
+            Api:["Json","Xml"],
+           MobileApplcation:["Android Studio","React Native"],
           Indesigning:["Css","Adobe illustrator","Adobe photoshop","Bootstrap"] }
 ````          
 
