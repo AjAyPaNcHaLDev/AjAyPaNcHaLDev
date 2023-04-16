@@ -14,6 +14,7 @@ Currently I'm pursuing my Master From Chaudhary Ranbir Singh University on-campu
     [Instagram](https://www.instagram.com/ajaydeveloper8570 "ajay") 
     [linkedin](https://www.linkedin.com/in/ajay-panchal-2a6612212 "ajay") 
 
+<img src="https://media.tenor.com/images/ea200a5305886e27264c831320ef5628/tenor.gif" width="50%" height="100"/> 
 ## 🖥 TechStack
 
 
@@ -35,6 +36,5 @@ Currently I'm pursuing my Master From Chaudhary Ranbir Singh University on-campu
 
 <img src="https://giphy.com/static/img/zoomies.gif" width="100%" height="500"/> 
 
-<img src="https://media.tenor.com/images/ea200a5305886e27264c831320ef5628/tenor.gif" width="100%" height="100"/> 
   
    
