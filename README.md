@@ -20,10 +20,10 @@ Currently I'm pursuing my Master From Chaudhary Ranbir Singh University on-campu
 ```javascript
 
   "use strict";
-  const AjAyPaNcHaL={ language:["java","C++","Php"],
-        script:["Javascript","TypeScript"],
+  const AjAyPaNcHaL={ Language:["Java","C++","Php","Python"],
+        Script:["Javascript","TypeScript"],
          Library:["Reactjs","Jquary","Ajex"], 
-         Framework:"Node Js",
+         Framework:["Next JS","Node Js"],
           Database:["Mysql","MongoDB"],    
             Api:["Json","Xml"],
            MobileApplcation:["Android Studio","React Native"],
