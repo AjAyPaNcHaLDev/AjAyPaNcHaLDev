@@ -16,7 +16,7 @@ Currently I'm complete Master From Computer Application from Chaudhary Ranbir Si
  <a href="https://twitter.com/ajaypancha77672" target="blank">
  <img src="https://img.shields.io/twitter/follow/ajaypancha77672?logo=twitter&style=for-the-badge" alt="ajaypancha77672" /></a> </p>
 
-- 🔭 I’m currently working on [Typing Skill](https://github.com/AjAyPaNcHaLDev/skilled-typing)
+- 🔭 I’m currently working on [Skilled-Typing-Next-Js Project](https://github.com/AjAyPaNcHaLDev/skilled-typing)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AjAyPaNcHaLDev/](https://github.com/AjAyPaNcHaLDev/)
 
