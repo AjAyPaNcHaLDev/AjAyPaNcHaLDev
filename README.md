@@ -54,14 +54,6 @@ Currently I'm complete Master From Computer Application from Chaudhary Ranbir Si
 ````
 
 
- <p align="left">  <img src="https://komarev.com/ghpvc/?username=ajaypanchaldev&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypanchaldev" /> </p>
- <p align="center"> 
- <a href="https://github.com/ryo-ma/github-profile-trophy">
- <img src="https://github-profile-trophy.vercel.app/?username=ajaypanchaldev" alt="ajaypanchaldev" /></a> </p>
- <p align="left"> 
- <a href="https://twitter.com/ajaypancha77672" target="blank">
- <img src="https://img.shields.io/twitter/follow/ajaypancha77672?logo=twitter&style=for-the-badge" alt="ajaypancha77672" /></a> </p>
-
 ## Skills👨‍💻
 
 <table>
@@ -86,6 +78,16 @@ Currently I'm complete Master From Computer Application from Chaudhary Ranbir Si
     <img src="https://camo.githubusercontent.com/5d16adff070d2a69a7617d576e0d3856bdd46c065a971ebb1e5b5066ad0046a1/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3132382f3030303030302f6669676d612e706e67" alt="Figma" height="40" style="vertical-align:top; margin:4px">
   </p>
 </table>
+
+ <p align="left">  <img src="https://komarev.com/ghpvc/?username=ajaypanchaldev&label=Profile%20views&color=0e75b6&style=flat" alt="ajaypanchaldev" /> </p>
+ <p align="center"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=ajaypanchaldev" alt="ajaypanchaldev" /></a> </p>
+ <p align="left"> 
+ <a href="https://twitter.com/ajaypancha77672" target="blank">
+ <img src="https://img.shields.io/twitter/follow/ajaypancha77672?logo=twitter&style=for-the-badge" alt="ajaypancha77672" /></a> </p>
+
+
 
 
 
