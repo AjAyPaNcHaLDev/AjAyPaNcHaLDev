@@ -13,7 +13,7 @@ I am 23 years old and have been programming since I was 19.
 
 Currently I'm complete Master From Computer Application from Chaudhary Ranbir Singh University Jind  at the end of Mastr's I'm developing some great projects.
 
-- 🔭 I’m currently working on [Skilled-Typing-Next-Js Project](https://github.com/AjAyPaNcHaLDev/skilled-typing)
+- 🔭 I’m currently working with [Immanent Solutions](https://immanentsolutions.com/) as MERN Stack Developer
 
 - 👨‍💻 All of my projects are available at [https://github.com/AjAyPaNcHaLDev/](https://github.com/AjAyPaNcHaLDev/)
 
