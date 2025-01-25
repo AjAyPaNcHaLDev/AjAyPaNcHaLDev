@@ -17,8 +17,7 @@
 - 💬 Ask me about **React Js, Node Js, React Native, Android**
 
 - 📫 How to reach me **ap8570091@gmail.com**
-
-- ⚡ Fun fact **My look is Funny but work is impressive.** 
+ 
 <table align="center" >
  <tr  >
   <td colspan="2" align="center" > 
